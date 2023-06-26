@@ -1,0 +1,9 @@
+
+.venv/
+.env.example
+temp.txt
+
+**/migrations/
+**/__pycache__/
+db.sqlite3
+
